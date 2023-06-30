@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Shared-Testing-Databases-lrnsjf.us-east-1.xata.sh/db/photo-gallery",
+  "codegen": {
+    "output": "lib/xata.codegen.ts"
+  }
+}

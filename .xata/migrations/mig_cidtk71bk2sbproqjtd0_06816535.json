@@ -1,0 +1,16 @@
+{
+  "id": "mig_cidtk71bk2sbproqjtd0",
+  "parentID": "mig_cidtjt72hgtg90u5ak3g",
+  "checksum": "1:06816535dfb367b2cd7eceed12c7ce5ffca94a5a870ecfdbfa3a0e178b725473",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "attachment",
+          "type": "file"
+        },
+        "table": "images"
+      }
+    }
+  ]
+}
